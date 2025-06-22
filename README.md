@@ -1,3 +1,28 @@
+# 🍎 Apple Clone Web App
+
+This is a React-based clone of the Apple official website built using modern React features and components.
+
+## 🚀 Features
+
+- ⚛️ React Functional Components
+- 📱 Responsive Design
+- 🔗 Client-Side Routing with `react-router-dom`
+- 🎨 Animations and Visual Components
+- 📦 Deployed using GitHub Pages
+## 🔗 Live Preview
+
+👉 [Click here to view the live website](https://rashidali58.github.io/apple-clone-webapp/)
+
+## 📸 Screenshot
+![App Preview](.rashidali58.github.io_apple-clone-webapp_ (1).png)
+
+# 💡 React Icons Installation
+npm install react-icons
+
+#  🔁 React Router DOM Installation
+npm install react-router-dom
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
