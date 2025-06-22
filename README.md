@@ -14,7 +14,7 @@ This is a React-based clone of the Apple official website built using modern Rea
 👉 [Click here to view the live website](https://rashidali58.github.io/apple-clone-webapp/)
 
 ## 📸 Screenshot
-![App Preview](.rashidali58.github.io_apple-clone-webapp_ (1).png)
+![App Preview](./screenshot2.png)
 
 # 💡 React Icons Installation
 npm install react-icons
