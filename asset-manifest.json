@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/apple-clone-webapp/static/css/main.4915f293.css",
-    "main.js": "/apple-clone-webapp/static/js/main.9966f6a6.js",
+    "main.js": "/apple-clone-webapp/static/js/main.19f0c5e7.js",
     "static/js/453.dec0fac6.chunk.js": "/apple-clone-webapp/static/js/453.dec0fac6.chunk.js",
     "static/media/Music.png": "/apple-clone-webapp/static/media/Music.5d0a02f04e880d564f1e.png",
     "static/media/Music2.png": "/apple-clone-webapp/static/media/Music2.a05ced04b9db6c63f86c.png",
@@ -31,11 +31,11 @@
     "static/media/asset6.jpg": "/apple-clone-webapp/static/media/asset6.e1b62856df9e97b04b48.jpg",
     "index.html": "/apple-clone-webapp/index.html",
     "main.4915f293.css.map": "/apple-clone-webapp/static/css/main.4915f293.css.map",
-    "main.9966f6a6.js.map": "/apple-clone-webapp/static/js/main.9966f6a6.js.map",
+    "main.19f0c5e7.js.map": "/apple-clone-webapp/static/js/main.19f0c5e7.js.map",
     "453.dec0fac6.chunk.js.map": "/apple-clone-webapp/static/js/453.dec0fac6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4915f293.css",
-    "static/js/main.9966f6a6.js"
+    "static/js/main.19f0c5e7.js"
   ]
 }
