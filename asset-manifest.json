@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4915f293.css",
+    "main.js": "/static/js/main.c529d789.js",
+    "static/js/453.dec0fac6.chunk.js": "/static/js/453.dec0fac6.chunk.js",
+    "static/media/Music.png": "/static/media/Music.5d0a02f04e880d564f1e.png",
+    "static/media/Music2.png": "/static/media/Music2.a05ced04b9db6c63f86c.png",
+    "static/media/hero_macbook_air_avail__fpm99qgohx2e_medium_2x.png": "/static/media/hero_macbook_air_avail__fpm99qgohx2e_medium_2x.0ae56bdbb0527fe6d454.png",
+    "static/media/asset29.jpeg": "/static/media/asset29.166e5254e30c6e5936a7.jpeg",
+    "static/media/asset27.jpeg": "/static/media/asset27.a9fa843f0256e6faa0a6.jpeg",
+    "static/media/asset25.jpeg": "/static/media/asset25.75a8e64027369d2fa70f.jpeg",
+    "static/media/asset19.jpeg": "/static/media/asset19.7f8ba088e7b969f04dfd.jpeg",
+    "static/media/asset23.jpeg": "/static/media/asset23.7507161ddb4dba66f1bf.jpeg",
+    "static/media/asset14.jpeg": "/static/media/asset14.9be133995fddb0e89af5.jpeg",
+    "static/media/balantro.png": "/static/media/balantro.fb527f856465f4efeceb.png",
+    "static/media/asset21.jpeg": "/static/media/asset21.ee9a6fd1668db0db07e5.jpeg",
+    "static/media/asset17.jpeg": "/static/media/asset17.30993a163df914ba239f.jpeg",
+    "static/media/asset31.jpeg": "/static/media/asset31.deafd2735fb5a62f461b.jpeg",
+    "static/media/airpods.png": "/static/media/airpods.3cc5c64a268fabddf361.png",
+    "static/media/asset12.jpeg": "/static/media/asset12.ebc571417a3b8f2be771.jpeg",
+    "static/media/fitness.png": "/static/media/fitness.c45839566322ed283dda.png",
+    "static/media/tour.png": "/static/media/tour.0aa829e98c3d707ca732.png",
+    "static/media/promo_macbookpro_announce__gdf98j6tj2ie_small_2x.png": "/static/media/promo_macbookpro_announce__gdf98j6tj2ie_small_2x.de76470db4335982706e.png",
+    "static/media/promo_apple_card.jpg": "/static/media/promo_apple_card.fb6a18b025f4f5dacadd.jpg",
+    "static/media/hero_bts_2025__kjxalx8t7ia2_medium_2x.jpg": "/static/media/hero_bts_2025__kjxalx8t7ia2_medium_2x.aa4fa406c2cfe131b2d4.jpg",
+    "static/media/asset 7.jpg": "/static/media/asset 7.77a71c52fe722f7d3466.jpg",
+    "static/media/promo_iphone.jpg": "/static/media/promo_iphone.76cbebad776c4ba9507f.jpg",
+    "static/media/asset 9.jpeg": "/static/media/asset 9.820037cab1cee9a15e84.jpeg",
+    "static/media/hero_sticker_mba__b0ht7774wpaq_large.png": "/static/media/hero_sticker_mba__b0ht7774wpaq_large.1b1428e35548b990e4ba.png",
+    "static/media/hero_sticker_ipadair__bk6ffplndvte_large.png": "/static/media/hero_sticker_ipadair__bk6ffplndvte_large.a8907b0eb8ccb1f3437d.png",
+    "static/media/asset6.jpg": "/static/media/asset6.e1b62856df9e97b04b48.jpg",
+    "index.html": "/index.html",
+    "main.4915f293.css.map": "/static/css/main.4915f293.css.map",
+    "main.c529d789.js.map": "/static/js/main.c529d789.js.map",
+    "453.dec0fac6.chunk.js.map": "/static/js/453.dec0fac6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4915f293.css",
+    "static/js/main.c529d789.js"
+  ]
+}
