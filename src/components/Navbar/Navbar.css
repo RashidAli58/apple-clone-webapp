@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: "SF Pro Text" "SF Pro Icons" "Helvetica Neue" Helvetica Arial
+    sans-serif;
+}
+
+.apple-nav {
+  background-color: #ffffff;
+  backdrop-filter: blur(20px);
+  position: fixed;
+  width: 100%;
+  height: 7vh;
+  top: 0;
+  z-index: 100;
+}
+
+.apple-nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+
+  margin: 0 auto;
+  padding: 0 22px;
+  height: 6vh;
+}
+
+.apple-nav li {
+  margin: 0 1.3vw;
+}
+
+.apple-nav Link,
+.apple-nav a {
+  color: rgb(10, 0, 0);
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 400;
+  transition: opacity 0.3s;
+}
+
+.apple-nav a:hover {
+  opacity: 1;
+}
+.apple-nav Link:hover {
+  opacity: 1;
+}
+
+.apple-logo {
+  font-size: 18px;
+  opacity: 1 !important;
+}
+.apple-logo img {
+  height: 18px;
+  width: 18px;
+}
+
+.search-icon,
+.cart-icon {
+  font-size: 16px;
+}
